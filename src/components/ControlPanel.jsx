@@ -200,7 +200,7 @@ const ControlPanel = ({
         justifyContent: 'center',
       }}>
         <a
-          href="https://www.instagram.com/gowtham_techie/"
+          href="https://www.instagram.com/__mr_kiru_03__?igsh=MWtkeDJ0cWE5a3Rr"
           target="_blank"
           rel="noopener noreferrer"
           style={{
@@ -215,7 +215,7 @@ const ControlPanel = ({
           <InstagramIcon size={20} />
         </a>
         <a
-          href="https://github.com/Gowtham-R03"
+          href="https://github.com/kirubashs2024lcse-web"
           target="_blank"
           rel="noopener noreferrer"
           style={{
@@ -235,7 +235,7 @@ const ControlPanel = ({
           fontWeight: 500,
           letterSpacing: '0.05em',
         }}>
-          @gowtham_techie
+          @__mr_kiru_03__
         </span>
       </div>
     </div>
